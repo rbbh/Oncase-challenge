@@ -20,21 +20,17 @@
 
 Este projeto é referente ao desafio para a seleção da empresa ONCASE Intelligence Consulting para a utilização de um Web Crawling e Scraping que deverá colher os dados de quaisquer portais de notícias concorrentes.
 
-Para este projeto
+O tema de notícias escolhido para este projeto foi "Música". Os sites escolhidos que contém notícias do tema foram:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* [Billboard](https://getbootstrap.com)
+* [Fuse](https://jquery.com)
+* [Loudwire](https://loudwire.com/)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Feito com
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+
+* [MongoDB](https://www.mongodb.com/)
+* [Scrapy](https://scrapy.org/)
 * [Laravel](https://laravel.com)
 
 
