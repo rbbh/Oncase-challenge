@@ -3,15 +3,15 @@
 ## Índice
 
 * [Sobre o Projeto](#Sobre-o-Projeto)
-  * [Feito com](#built-with)
-* [Começando](#getting-started)
-  * [Pré-Requisitos](#prerequisites)
+  * [Feito com](#Feito-com)
+* [Começando](#Começando)
+  * [Pré-Requisitos](#Pré-Requisitos)
   * [Instalação](#instalação)
-* [Utilização](#usage)
-* [Contribuições](#contributing)
-* [Licensa](#license)
-* [Contato](#contact)
-* [Reconhecimentos](#acknowledgements)
+* [Utilização](#Utilização)
+* [Contribuições](#Contribuições)
+* [Licensa](#Licensa)
+* [Contato](#Contato)
+* [Reconhecimentos](#Reconhecimentos)
 
 
 
