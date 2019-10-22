@@ -1,24 +1,26 @@
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Índice
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Sobre o Projeto](#about-the-project)
+  * [Feito com](#built-with)
+* [Começando](#getting-started)
+  * [Pré-Requisitos](#prerequisites)
+  * [Instalação](#installation)
+* [Utilização](#usage)
+* [Contribuições](#contributing)
+* [Licensa](#license)
+* [Contato](#contact)
+* [Reconhecimentos](#acknowledgements)
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o Projeto
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Este projeto é referente ao desafio para a seleção da empresa ONCASE Intelligence Consulting para a utilização de um Web Crawling e Scraping que deverá colher os dados de quaisquer portais de notícias concorrentes.
+
+Para este projeto
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -29,7 +31,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### Feito com
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
@@ -38,12 +40,12 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Pré-Requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -51,7 +53,7 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
-### Installation
+### Instalação
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -70,7 +72,7 @@ const API_KEY = 'ENTER YOUR API';
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Utilização
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -81,7 +83,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuições
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -94,23 +96,23 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## Licensa
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Rafael Holanda - [Rafael Holanda](https://www.linkedin.com/in/rafael-b-holanda) - holandaraf@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Reconhecimentos
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -121,7 +123,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Feedspot](https://blog.feedspot.com/music_news_websites/)
 
 
 
