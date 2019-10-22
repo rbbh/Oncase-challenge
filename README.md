@@ -2,7 +2,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Índice
 
-* [Sobre o Projeto](#Sobre o Projeto)
+* [Sobre o Projeto](#Sobre-o-Projeto)
   * [Feito com](#built-with)
 * [Começando](#getting-started)
   * [Pré-Requisitos](#prerequisites)
