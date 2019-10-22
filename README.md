@@ -31,8 +31,6 @@ O tema de notícias escolhido para este projeto foi "Música". Os sites escolhid
 
 * [MongoDB](https://www.mongodb.com/)
 * [Scrapy](https://scrapy.org/)
-* [Laravel](https://laravel.com)
-
 
 
 <!-- GETTING STARTED -->
@@ -101,7 +99,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contato
 
-Rafael Holanda - [Rafael Holanda](https://www.linkedin.com/in/rafael-b-holanda) - holandaraf@gmail.com
+Linkedin: [Rafael Holanda](https://www.linkedin.com/in/rafael-b-holanda) 
+E-mail:   holandaraf@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
