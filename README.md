@@ -6,7 +6,7 @@
   * [Feito com](#built-with)
 * [Começando](#getting-started)
   * [Pré-Requisitos](#prerequisites)
-  * [Instalação](#installation)
+  * [Instalação](#instalação)
 * [Utilização](#usage)
 * [Contribuições](#contributing)
 * [Licensa](#license)
