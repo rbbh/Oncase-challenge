@@ -99,7 +99,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contato
 
-Linkedin: [Rafael Holanda](https://www.linkedin.com/in/rafael-b-holanda) 
+LinkedIn: [Rafael Holanda](https://www.linkedin.com/in/rafael-b-holanda) 
 
 E-mail:   holandaraf@gmail.com
 
