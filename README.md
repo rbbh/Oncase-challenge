@@ -22,8 +22,8 @@ Este projeto é referente ao desafio para a seleção da empresa ONCASE Intellig
 
 O tema de notícias escolhido para este projeto foi "Música". Os sites escolhidos que contém notícias do tema foram:
 
-* [Billboard](https://getbootstrap.com)
-* [Fuse](https://jquery.com)
+* [Billboard](https://www.billboard.com/)
+* [Fuse](https://www.fuse.tv/)
 * [Loudwire](https://loudwire.com/)
 
 
