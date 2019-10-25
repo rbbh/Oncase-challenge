@@ -7,8 +7,9 @@
 * [Começando](#Começando)
   * [Pré-Requisitos](#Pré-Requisitos)
   * [Instalação](#instalação)
-* [Utilização](#Utilização)
-* [Contribuições](#Contribuições)
+* [Da Estratégia](#Da-Estratégia)
+* [Da Execução](#Da-Execução)
+* [Contribuições Futuras](#Contribuições-Futuras)
 * [Licensa](#Licensa)
 * [Contato](#Contato)
 * [Reconhecimentos](#Reconhecimentos)
@@ -50,37 +51,35 @@ git clone https://github.com/rbbh/Oncase-challenge.git
 ```
 3. Instale os pacotes do arquivo de requirements:
 ```sh
-npm install
+pip3 install -r requirements.txt
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
-
 
 <!-- USAGE EXAMPLES -->
-## Utilização
+## Da Estratégia
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+O projeto foi todo feito com a utilização de plataformas Open Source com o intuito de ser escalável. O Scrapy foi escolhido pela sua integração com Python e por possuir uma documentação de fácil acesso, explicativa e com uma comunidade relativamente grande que posta tutoriais (todas as referências disponíveis na seção de "Reconhecimentos").
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Além disso, para a base de dados, foi escolhido o MongoDB pela praticidade de integração com o Scrapy, já que vários tutoriais (incluindo a própria documentação do Scrapy) os utilizam conjuntamente.
+
+A ideia é que deva-se colher todos os dados relevantes referentes às notícias dos sites. Mas, para um momento inicial, nos contentaremos apenas com os textos (as headlines) de cada notícia dos sites.
 
 
+## Da Execução
+
+O projeto ainda não se encontra funcional. Vários ajustes devem ser feitos em relação aos códigos de Scraping.
+
+Houve uma dificuldade particular com os formatos dos XPath's. O Scrapy faz a "raspagem" dos dados dos websites através desse tipo de código, que é um código fonte para o formato xml que compõe os websites. 
+
+Após resolvido isso, deverá ser providenciada uma verificação do arquivo de pipeline para a comunicação com a base de dados, já que essa também não se encontra funcional.
+
+Feitas as melhorias necessárias, deverá ser feito um shell script para que o usuário final consiga realizar a estocagem de dados dos três sites de música na base de forma completamente automatizada.
 
 
 
 <!-- CONTRIBUTING -->
-## Contribuições
+## Contribuições Futuras
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+Este Repositório deverá ser feito Público num momento futuro com o aval da On Case, para que haja contribuições da comunidade de desenvolvimento e que, consequentemente, fará o projeto se escalar bem mais rápido.
 
 
 <!-- LICENSE -->
@@ -103,35 +102,18 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Reconhecimentos
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Feedspot](https://blog.feedspot.com/music_news_websites/)
+
+Gostaria, acima de tudo, de agradecer à On Case pela oportunidade de realizar este desafio. Independente de tudo, aprender sobre a existência dos Web Crawling e Scraping's foi muito prazeroso e, apesar de desafiador, importantíssimo para minha formação como Cientista de Dados.
+
+Além disso, segue as contribuições online que ajudaram a dar um bom norte para o projeto:
+
+* [Blog que levou à escolha dos websites](https://blog.feedspot.com/music_news_websites/)
+* [Documentação Oficial do Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+* [Tutorial Utilizando MongoDB com Scrapy](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)
+* [Tutorial Utilizando MongoDB com Scrapy](https://alysivji.github.io/mongodb-pipelines-in-scrapy.html)
 
 
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 
