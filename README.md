@@ -46,9 +46,9 @@ Para a execução do crawl e scraping, é necessário prosseguir com as seguinte
 1. [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 2. Clone o repositório:
 ```sh
-git clone https:://github.com/your_username_/Project-Name.git
+git clone https://github.com/rbbh/Oncase-challenge.git
 ```
-3. Install NPM packages
+3. Instale os pacotes do arquivo de requirements:
 ```sh
 npm install
 ```
