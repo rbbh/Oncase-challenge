@@ -108,7 +108,7 @@ Gostaria, acima de tudo, de agradecer à On Case pela oportunidade de realizar e
 Além disso, segue as contribuições online que ajudaram a dar um bom norte para o projeto:
 
 * [Blog que levou à escolha dos websites](https://blog.feedspot.com/music_news_websites/)
-* [Documentação Oficial do Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+* [Documentação Oficial do Scrapy](https://doc.scrapy.org/en/latest/index.html)
 * [Tutorial Utilizando MongoDB com Scrapy](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)
 * [Tutorial Utilizando MongoDB com Scrapy](https://alysivji.github.io/mongodb-pipelines-in-scrapy.html)
 
